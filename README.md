@@ -1,5 +1,5 @@
 # frontend-nanodegree-feedreader
-Udacity nanodegree project for testing javascript using jasmin framework
+Udacity nanodegree project for testing javascript using jasmine framework
 
 ### testing date entry for Google Feed Reader API
   
